@@ -7,7 +7,7 @@
 - 
 - 📥 How to reach me:
 - 
--                     https://Web3Engineer.dev/
+-                     https://web3Engineer.dev/
 -                     
 -                     web3Engineer@gmail.com
 -                     
