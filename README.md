@@ -1,11 +1,11 @@
-- 📖 My work:   Decentralized Web Applications & Quantum DApps
+- 📖 My work:   Decentralized Web Applications, Software Engineering & Quantum DApps
 - 
 - 🌱 Currently learning:   Quantum Computing Language QCL & Quantum Smart Contracts
 - 
 - 🌳 Looking to collaborate on:   Smart Contracts, DOA Contracts, Solidity, JavaScript & Decentralized Applications
 - 
 - 
-- 📥 How to reach me:
+- 📥 How to message me:
 - 
 -                     https://web3Engineer.dev/
 -                     
