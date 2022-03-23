@@ -5,7 +5,7 @@
 - 🌳 Looking to collaborate on:   Smart Contracts, DOA Contracts, Solidity, JavaScript & Decentralized Applications
 - 
 - 
-- 📥 How to message me:
+- 🛰️ How to message me:
 - 
 -                     https://web3Engineer.dev/
 -                     
