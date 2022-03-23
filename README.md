@@ -7,12 +7,12 @@
 - 
 - 🛰️ How to message me:
 - 
--                     https://web3Engineer.dev/
+-                     https://web3Engineer.dev
 -                     
 -                     web3Engineer@gmail.com
 -                     
--                     https://twitter.com/Web3_Engineer/
--                     https://www.facebook.com/Web3Engineer/
+-                     https://twitter.com/Web3_Engineer
+-                     https://www.facebook.com/Web3Engineer
 -                     
 - 
 -                    
