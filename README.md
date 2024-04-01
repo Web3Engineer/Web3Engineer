@@ -9,7 +9,7 @@
 - Generative Pre-trained Transformers(GPT)
 - Quantum Computing Programming Language(QCL)<br><br>
 **🌳 Looking to collaborate on:**
-Artificially Inteligent Task Models/APIs
+- Artificially Inteligent Task Models/APIs
 - Decentralized Applications
 - Solidity Programming Language
 - Advancmed JavaScript Implementations<br><br><br>
