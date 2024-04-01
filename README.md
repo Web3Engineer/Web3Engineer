@@ -1,5 +1,4 @@
 ### Professional Software Engineer
-
 **📖 My work:**
 - Decentralized Apps
 - Artifical Inteligence
