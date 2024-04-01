@@ -12,7 +12,7 @@
 - Artificially Inteligent Task Models/APIs
 - Decentralized Applications
 - Solidity Programming Language
-- Advancmed JavaScript Implementations<br><br><br>
+- Advanced JavaScript Implementations<br><br><br>
 🛰️ How to Contact Me:<br>
 - https://www.github.com/web3Engineer
 - web3Engineer@gmail.com<br><br><br>
