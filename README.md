@@ -1,18 +1,19 @@
--Professional Software Engineer
+Professional Software Engineer
 -
-- 📖 My work:   Decentralized Web Apps, Software Engineering & Quantum DApps
+- **📖 My work:**
+- Decentralized Apps, Artifical Inteligence & Quantum Software Development
 - 
-- 🌱 Currently learning:   Quantum Computing Language QCL & Quantum Smart Contracts
+- **🌱 Currently learning:**
+• Neural Networking
+• Generative Pre-trained Transformers(GPT)
+• Quantum Computing Programming Language(QCL) 
 - 
-- 🌳 Looking to collaborate on:   Smart Contracts, DOA Contracts, Solidity, JavaScript & Decentralized Applications
+- 🌳 Looking to collaborate on:   Artifical Inteligence Task Models, Solidity, JavaScript & Decentralized Applications
 - 
 - 
-- 🛰️ How to message me:
+- 🛰️ How to Contact Me:
 - 
 -   https://www.github.com/web3Engineer
--   https://www.instagram.com/web3Engineer
--   https://www.twitter.com/web3_Engineer
--   https://www.facebook.com/web3Engineer  
 -   web3Engineer@gmail.com
 -                     
 -   
