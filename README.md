@@ -4,9 +4,9 @@ Professional Software Engineer
 - Decentralized Apps, Artifical Inteligence & Quantum Software Development
 - 
 - **🌱 Currently learning:**
-• Neural Networking
-• Generative Pre-trained Transformers(GPT)
-• Quantum Computing Programming Language(QCL) 
+- Neural Networking
+- Generative Pre-trained Transformers(GPT)
+- Quantum Computing Programming Language(QCL) 
 - 
 - 🌳 Looking to collaborate on:   Artifical Inteligence Task Models, Solidity, JavaScript & Decentralized Applications
 - 
