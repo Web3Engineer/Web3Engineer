@@ -4,7 +4,7 @@
 - Decentralized Apps
 - Artifical Inteligence
 - Quantum Software Development<br><br>
-**🌱 Currently learning:**
+**🌱 Currently Learning:**
 - Neural Networking
 - Generative Pre-trained Transformers(GPT)
 - Quantum Computing Programming Language(QCL)<br><br>
