@@ -1,4 +1,6 @@
-- 📖 My work:   Decentralized Web Applications, Software Engineering & Quantum DApps
+-Professional Software Engineer
+-
+- 📖 My work:   Decentralized Web Apps, Software Engineering & Quantum DApps
 - 
 - 🌱 Currently learning:   Quantum Computing Language QCL & Quantum Smart Contracts
 - 
