@@ -1,8 +1,8 @@
 ### Professional Software Engineer
 **📖 My work:**
 - Software Engineering
-- Decentralized Apps
-- Artifical Inteligence
+- Decentralized Apps (dApps)
+- Artifical Inteligence (AI)
 - Quantum Software Development<br><br>
 **🌱 Currently Learning:**
 - Neural Networking
