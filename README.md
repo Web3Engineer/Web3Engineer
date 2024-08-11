@@ -1,5 +1,6 @@
 ### Professional Software Engineer
 **📖 My work:**
+- Software Engineering
 - Decentralized Apps
 - Artifical Inteligence
 - Quantum Software Development<br><br>
