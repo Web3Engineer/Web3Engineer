@@ -6,7 +6,7 @@
 **🌱 Currently Learning:**
 - Neural Networking
 - Generative Pre-trained Transformers(GPT)
-- Quantum Computing Programming Language(QCL)<br><br>
+- Quantum Computing Programming Language(QCL) & Qiskit<br><br>
 **🌳 Looking to collaborate on:**
 - Artificially Inteligent Task Models/APIs
 - Decentralized Applications
