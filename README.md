@@ -14,6 +14,7 @@
 - Solidity Programming Language
 - Advanced JavaScript Implementations<br><br><br>
 🛰️ How to Contact Me:<br>
-- www.Daniel.engineer<br>
 - web3Engineer@gmail.com<br>
-- https://www.github.com/web3Engineer<br><br><br>
+🌐 My websites:<br>
+- www.Daniel.engineer<br>
+- www.BiblePortal.net<br>
