@@ -3,7 +3,8 @@
 - Software Engineering
 - Decentralized Apps (dApps)
 - Artifical Inteligence (AI)
-- Quantum Software Development<br><br>
+- Quantum Software Development
+- Post-Quantum Encryption<br><br>
 **🌱 Currently Learning:**
 - Neural Networking
 - Generative Pre-trained Transformers(GPT)
