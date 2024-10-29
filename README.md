@@ -1,6 +1,6 @@
 ### Professional Software Engineer
 **📖 My work:**
-- Software Engineering
+- Full-Stack Software Engineering
 - Decentralized Apps (dApps)
 - Artifical Inteligence (AI)
 - Quantum Software Development
